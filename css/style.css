@@ -1,0 +1,15 @@
+body{
+    background-color: brown;
+}
+a{
+    font-style: italic;
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color:black;
+}
+footer {
+    padding-top: 100px;
+    
+}
